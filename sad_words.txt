@@ -1,0 +1,7 @@
+sad, blue, bitter, cheerless, despairing,
+gloomy, dismal, despairing, down, forlorn,
+hurting, morose, pessimistic, somber, sorry,
+troubled, morbid, mournful, low, wistful,
+glum, grieved, heavyhearted, downcast, doleful,
+disconsolate, distressed, dejected, pensive, sorrowful,
+weeping, somber, melancholy, heartsick

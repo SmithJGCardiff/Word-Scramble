@@ -1,0 +1,4 @@
+amazement, awe, bombshell, curiosity, incredulity,
+godsend, marvel, portent, prodigy, revelation,
+stupefaction, unforeseen, wonder, shock, rarity, 
+miracle, abruptness, astonishment
